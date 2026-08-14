@@ -44,11 +44,7 @@ The required evaluation metrics are:
 
 The dataset satisfies the assignment constraints of at least 500 instances and at least 12 features.
 
-## c. GitHub Repository Link
-
-**GitHub Repository:** https://github.com/deepakic22/ML_Assignment_2
-
-## Live Streamlit Application
+## c.Live Streamlit Application
 
 **Streamlit App:** https://mlassignment2-x6a4apu6z4n9y9g87q4q6g.streamlit.app/
 
